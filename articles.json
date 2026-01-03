@@ -1,0 +1,127 @@
+{
+  "articles": [
+    {
+        "id": 7,
+        "title": "Deconstructing Razor Pay: A Payment Gateway",
+        "description": "An in-depth look at Razor Pay's architecture and functionality as a payment gateway.",
+        "url": "https://imdsk28.substack.com/p/deconstructing-razorpay-the-reliability",
+        "icon": "fa-file-text-o",
+        "type": "Systems Design"
+
+    },
+    {
+        "id": 15,
+        "url":"https://imdsk28.substack.com/p/langchain-deep-agents-the-blueprint",
+        "title": "LangChain Deep Agents: The Blueprint for Mastering Complex AI Workflows",
+        "description":"A Deep Dive into Stateful Planning, Sub-agent Delegation, and Persistent Context Management",
+        "type": "AI",
+        "icon": "fa-file-text-o"
+    },
+    {
+        "id": 14,
+        "url":"https://imdsk28.substack.com/p/unlock-agentic-ai-a-developers-guide",
+        "title": "AI Developers Guide to Autogen",
+        "description":"Microsoft Autogen: Empowering Developers to Build Agentic AI Solutions",
+        "type": "AI",
+        "icon": "fa-file-text-o"
+    },
+    {
+        "id": 13,
+        "url":"https://imdsk28.substack.com/p/from-code-to-concept-a-deep-dive",
+        "title": "Deep Dive into Building a Corrective RAG using LangGraph Corrective RAG",
+        "description":"Deep Dive into Building a Corrective RAG using LangGraph Corrective RAG",
+        "type": "AI",
+        "icon": "fa-file-text-o"
+    },
+    {
+        "id":12,
+        "url":"https://imdsk28.substack.com/p/orchestrating-ai-experts-a-deep-dive",
+        "title": "Orchestrating AI Experts: A Deep Dive into LangGraphs Supervisor Tools",
+        "description":"Orchestrating AI Experts: A Deep Dive into LangGraphs Supervisor Tools",
+        "type": "AI",
+        "icon": "fa-file-text-o"
+    },
+    {
+        "id": 11,
+        "url":"https://imdsk28.substack.com/p/build-your-own-ai-knowledge-base",
+        "title": "Build Your Own AI Knowledge Base with RAG!",
+        "description": "A step-by-step guide to creating a personalized AI knowledge base using Retrieval-Augmented Generation (RAG) techniques.",
+        "type": "AI",
+        "icon": "fa-file-text-o"
+    },
+    
+    {
+      "id": 10,
+      "title": "Dirty Data Dazzling AI? Not Without Clean Data!",
+      "description": "Exploring the critical role of clean data in enhancing AI performance and reliability.",
+      "type": "AI",
+      "icon": "fa-file-text-o",
+      "url": "https://imdsk28.substack.com/p/dirty-data-dazzling-ai-not-without"
+    },
+    { 
+        "id": 9,
+        "title": "Understanding Embeddings: The Simple Key to How AI Grasps Meaning",
+        "description": "Understanding embeddings and their role in AI's comprehension of language and context.",
+        "type": "AI",
+        "url": "https://imdsk28.substack.com/p/understanding-embeddings-the-simple",
+        "icon": "fa-file-text-o"
+    },
+    {
+        "id": 8,
+        "title": "Easy Guide to AI Settings! - Temperature, Top-P, and More",
+        "description": "A comprehensive guide to understanding and configuring AI settings like Temperature and Top-P for optimal performance.",
+        "type": "AI",
+        "url": "https://imdsk28.substack.com/p/making-ai-talk-how-you-want-easy",
+        "icon": "fa-file-text-o"
+    },
+    {
+      "id": 1,
+      "title": "Filters in MVC -1",
+      "description": "Overview of filters in MVC architecture and implementation",
+      "type": ".NET",
+      "url": "https://www.c-sharpcorner.com/article/overview-of-filters-in-mvc2/",
+      "icon": "fa-file-text-o"
+    },
+    {
+      "id": 2,
+      "title": "Filters in MVC -2",
+      "description": "Advanced filter concepts and best practices in MVC",
+      "type": ".NET",
+      "url": "https://www.c-sharpcorner.com/article/overview-of-filters-in-mvc-part-two/",
+      "icon": "fa-file-text-o"
+    },
+    {
+      "id": 3,
+      "title": "QNA Maker FAQ Bot",
+      "description": "Creating and integrating intelligent FAQ bots with QNA Maker",
+      "type": ".NET",
+      "url": "https://www.c-sharpcorner.com/article/creating-a-qna-maker-faq-bot-and-integrating-it-to-your-web-app/",
+      "icon": "fa-file-text-o"
+    },
+    {
+      "id": 4,
+      "title": "Alexa Skills Part -1",
+      "description": "Introduction and interaction with Amazon Alexa Skills",
+      "type": ".NET",
+      "url": "https://www.c-sharpcorner.com/article/creating-a-alexa-skill-synonyms-finder-part-one-introduction-and-interacti/",
+      "icon": "fa-file-text-o"
+    },
+    {
+      "id": 5,
+      "title": "Alexa Skills Part -2",
+      "description": "AWS Lambda functions and Alexa skill integration",
+      "type": ".NET",
+      "url": "https://www.c-sharpcorner.com/article/creating-an-alexa-skill-synonyms-finder-part-two-aws-lambda-function-and-i/",
+      "icon": "fa-file-text-o"
+    },
+    {
+      "id": 6,
+      "title": "Azure ARM Template",
+      "description": "Introduction to Azure Resource Manager templates",
+      "type": ".NET",
+      "url": "https://www.c-sharpcorner.com/article/introduction-to-azure-arm-template/",
+      "icon": "fa-file-text-o"
+    }
+  ]
+}
+     
